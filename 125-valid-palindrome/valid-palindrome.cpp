@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        vector<char>a,b;
+        vector<char>a;
         if(s==" "){
             return true;
         }
@@ -9,12 +9,19 @@ public:
             if(isalnum(ch)){
                 ch=tolower(ch);
             a.push_back(ch);
-            b.push_back(ch);
+           
             }
         }
-
-        reverse(b.begin(),b.end());
-        return (a==b);
+    int left=0;
+    int right=a.size()-1;
+       while(left<right){
+        if(a[left]!=a[right]){
+            return false;}
+            left++;
+            right--;
+        
+       }
+        return true;;
         
     }
 };
