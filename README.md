@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
