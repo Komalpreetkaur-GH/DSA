@@ -24,6 +24,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -40,6 +41,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0067-add-binary) |
 ## Array
 |  |
