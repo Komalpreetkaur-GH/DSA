@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
@@ -44,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
 ## Array
@@ -51,6 +53,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0066-plus-one) |
 ## Trie
 |  |
@@ -72,5 +75,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
