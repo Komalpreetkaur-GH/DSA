@@ -23,6 +23,7 @@
 | [0141-linked-list-cycle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0035-search-insert-position](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0066-plus-one) |
+| [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -77,4 +79,25 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
