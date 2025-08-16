@@ -13,6 +13,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -63,6 +64,7 @@
 | [0035-search-insert-position](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
@@ -73,6 +75,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
