@@ -46,6 +46,7 @@
 | [0231-power-of-two](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
