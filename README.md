@@ -67,6 +67,7 @@
 | [0035-search-insert-position](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Trie
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
