@@ -17,6 +17,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0118-pascals-triangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | [0035-search-insert-position](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +100,7 @@
 | [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
