@@ -92,6 +92,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0338-counting-bits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Design
 |  |
