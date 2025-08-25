@@ -35,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Trie
 |  |
@@ -159,4 +161,5 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
