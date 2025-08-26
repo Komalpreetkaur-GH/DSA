@@ -20,6 +20,7 @@
 | [0344-reverse-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0067-add-binary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0344-reverse-string) |
+| [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
 ## Array
 |  |
 | ------- |
