@@ -54,6 +54,7 @@
 | [0069-sqrtx](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
