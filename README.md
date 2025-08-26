@@ -83,6 +83,7 @@
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Trie
 |  |
 | ------- |
