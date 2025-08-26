@@ -53,6 +53,7 @@
 | [0067-add-binary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0258-add-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -167,4 +169,8 @@
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
