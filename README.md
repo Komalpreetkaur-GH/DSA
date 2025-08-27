@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -84,6 +85,7 @@
 | [0066-plus-one](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -174,6 +176,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Stack
 |  |
