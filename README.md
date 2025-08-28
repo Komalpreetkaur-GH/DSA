@@ -64,6 +64,7 @@
 | [0326-power-of-three](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
 ## String
 |  |
@@ -76,6 +77,7 @@
 | [0067-add-binary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
 ## Array
 |  |
@@ -119,6 +121,7 @@
 | [0231-power-of-two](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
