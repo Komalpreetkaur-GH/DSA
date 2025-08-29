@@ -92,6 +92,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0506-relative-ranks) |
@@ -196,4 +197,16 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0258-add-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
