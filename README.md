@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0503-next-greater-element-ii) |
@@ -204,6 +205,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -213,4 +215,12 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0463-island-perimeter) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
