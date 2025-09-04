@@ -68,6 +68,7 @@
 | [0367-valid-perfect-square](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1610-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0338-counting-bits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1610-xor-operation-in-an-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
