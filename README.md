@@ -69,6 +69,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1610-xor-operation-in-an-array) |
+| [3830-find-closest-person](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
