@@ -91,6 +91,7 @@
 | [0066-plus-one](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0118-pascals-triangle) |
+| [0137-single-number-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0338-counting-bits) |
