@@ -109,6 +109,7 @@
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0566-reshape-the-matrix) |
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1168-duplicate-zeros) |
@@ -147,6 +148,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0566-reshape-the-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0566-reshape-the-matrix) |
 ## Tree
 |  |
 | ------- |
