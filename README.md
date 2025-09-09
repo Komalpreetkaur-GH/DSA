@@ -111,6 +111,7 @@
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0566-reshape-the-matrix) |
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -161,6 +162,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
 ## String Matching
 |  |
@@ -251,4 +254,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0090-subsets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
