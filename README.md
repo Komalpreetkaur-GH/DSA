@@ -258,4 +258,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
