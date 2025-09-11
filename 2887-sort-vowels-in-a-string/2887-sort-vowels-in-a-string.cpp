@@ -1,9 +1,9 @@
-bool isVowel(char ch) {
-    string vowels = "aeiouAEIOU";
-    return vowels.find(ch) != string::npos;
-}
 class Solution {
 public:
+static bool isVowel(char ch) {
+    static string vowels = "aeiouAEIOU";
+    return vowels.find(ch) != string::npos;
+}
     string sortVowels(string s) {
         vector<char> vow;
         int n=s.size();
