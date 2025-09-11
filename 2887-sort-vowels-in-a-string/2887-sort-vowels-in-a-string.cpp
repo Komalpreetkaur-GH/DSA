@@ -14,9 +14,9 @@ static bool isVowel(char ch) {
         }
         int k=0;
         sort(vow.begin(),vow.end());
-        for(int i=0;i<n;i++){
-             if(isVowel(s[i])){
-                s[i]=vow[k++];
+        for(char &ch:s){
+             if(isVowel(ch)){
+                ch=vow[k++];
 
 
 
