@@ -1,7 +1,7 @@
 class Solution {
 public:
 static bool isVowel(char ch) {
-    static string vowels = "aeiouAEIOU";
+    static const string vowels = "aeiouAEIOU";
     return vowels.find(ch) != string::npos;
 }
     string sortVowels(string s) {
