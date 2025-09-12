@@ -123,6 +123,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Trie
 |  |
@@ -138,6 +139,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
 | ------- |
