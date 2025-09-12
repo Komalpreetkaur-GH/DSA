@@ -27,6 +27,7 @@
 | [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1168-duplicate-zeros) |
+| [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
+| [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Trie
 |  |
@@ -142,6 +145,7 @@
 | [0792-binary-search](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
