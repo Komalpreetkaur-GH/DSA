@@ -31,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0141-linked-list-cycle) |
@@ -96,6 +97,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0035-search-insert-position) |
