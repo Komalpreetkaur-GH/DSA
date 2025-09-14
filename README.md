@@ -43,6 +43,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
+| [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -95,6 +96,7 @@
 | [0344-reverse-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
+| [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -126,6 +128,7 @@
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0941-sort-array-by-parity) |
+| [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1168-duplicate-zeros) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
