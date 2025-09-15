@@ -1,14 +1,14 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        unordered_map<int,int> freq;
+        vector<bool> freq(128,false);
         for(char ch:jewels){
-            freq[ch]++;
+            freq[ch]=true;
 
         }
         int count=0;
         for(char ch:stones){
-            if(freq[ch]>0){
+            if(freq[ch]){
                 count++;
             }
         }
