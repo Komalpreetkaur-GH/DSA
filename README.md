@@ -43,6 +43,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
@@ -96,6 +97,7 @@
 | [0242-valid-anagram](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0782-jewels-and-stones](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
