@@ -80,6 +80,7 @@
 | [0342-power-of-four](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1236-n-th-tribonacci-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0338-counting-bits) |
+| [1236-n-th-tribonacci-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Design
 |  |
@@ -294,4 +296,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0176-second-highest-salary) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
