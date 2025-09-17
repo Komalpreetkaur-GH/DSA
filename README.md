@@ -43,6 +43,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -130,6 +131,7 @@
 | [0506-relative-ranks](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0941-sort-array-by-parity) |
