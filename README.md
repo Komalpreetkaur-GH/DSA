@@ -145,6 +145,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Trie
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [0463-island-perimeter](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0566-reshape-the-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Tree
 |  |
 | ------- |
