@@ -45,6 +45,7 @@
 | [0496-next-greater-element-i](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
@@ -100,6 +101,7 @@
 | [0344-reverse-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0782-jewels-and-stones](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
