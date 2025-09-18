@@ -48,6 +48,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -105,6 +106,7 @@
 | [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -144,6 +146,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -218,6 +221,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
