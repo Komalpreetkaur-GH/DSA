@@ -51,6 +51,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -151,6 +152,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2634-minimum-common-value) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Trie
@@ -228,6 +230,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
