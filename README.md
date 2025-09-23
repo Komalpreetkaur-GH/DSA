@@ -91,6 +91,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1610-xor-operation-in-an-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3830-find-closest-person](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -110,6 +111,7 @@
 | [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2032-largest-odd-number-in-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Komalpreetkaur-GH/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -244,6 +246,7 @@
 | [0455-assign-cookies](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
