@@ -24,6 +24,7 @@
 | [0344-reverse-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0953-reverse-only-letters) |
@@ -144,6 +145,7 @@
 | [0566-reshape-the-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0941-sort-array-by-parity) |
@@ -173,6 +175,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0367-valid-perfect-square) |
+| [0611-valid-triangle-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -209,6 +212,7 @@
 | [0506-relative-ranks](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0611-valid-triangle-number) |
 | [0941-sort-array-by-parity](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -246,6 +250,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/Komalpreetkaur-GH/DSA/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Komalpreetkaur-GH/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
