@@ -1,16 +1,19 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        map<int,int> freq;
-
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            int comp=target-nums[i];
-            if(freq.find(comp)!=freq.end()){
-             return {i,freq[comp]};
+        unordered_map<int, int> mp; // value -> index
+        
+        for (int i = 0; i < nums.size(); i++) {
+            int complement = target - nums[i];
+            
+            if (mp.find(complement) != mp.end()) {
+                // Found the pair
+                return {mp[complement], i};
             }
-                freq[nums[i]]=i;
+            
+            mp[nums[i]] = i; // store current number with its index
         }
-        return {};
+        
+        return {}; // no solution found (though guaranteed in problem statement)
     }
 };
