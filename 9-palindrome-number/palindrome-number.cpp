@@ -1,19 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if(x<0){
+        // Step 1: negative numbers or ending with 0 (except 0)
+        if (x < 0 || (x % 10 == 0 && x != 0))
             return false;
+
+        int reversedHalf = 0;
+
+        // Step 2: reverse half of the number
+        while (x > reversedHalf) {
+            reversedHalf = reversedHalf * 10 + x % 10;
+            x /= 10;
         }
-        int y=x;
-        int n=0;
-        while(x){
-            int r=x%10;
-            if(n>INT_MAX/10|| n<INT_MIN/10){
-                return false;
-            }
-            n=n*10+r;
-            x/=10;
-        }  
-        return (y==n);      
+
+        // Step 3: check palindrome
+        return (x == reversedHalf) || (x == reversedHalf / 10);
     }
 };
